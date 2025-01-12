@@ -1,0 +1,34 @@
+PROBLEM 1
+
+(<__main__.Node object at 0x000002BB8F4E2410>, '(sin x0)', np.float64(3.5629703971163863e-29))
+
+PROBLEM 2
+
+(<__main__.Node object at 0x000002BB8F5B6DD0>, '((x0 divide x1) divide x1)', np.float64(4.935516996093322e+18))
+
+
+PROBLEM 3
+
+(<__main__.Node object at 0x000002BB8EE6DF60>, '(1.4671024929992713 power (4.65966493119525 subtract (x0 add x1)))', np.float64(310272527.58202726))
+
+PROBLEM 4
+
+(<__main__.Node object at 0x00000122E74F5510>, '((cos (x1 divide 2.0567915909182988)) multiply 1.5513136700495078)', np.float64(1820743.7593726288))
+
+PROBLEM 5
+
+(<__main__.Node object at 0x00000122E7606A40>, '((cos (cos x1)) power ((cos 0.47558864290304415) divide (x1 subtract x1)))', np.float64(1.3932025581543332e-12))
+
+
+PROBLEM 6
+
+(<__main__.Node object at 0x00000122E73679D0>, '(x1 add ((sin (-4.311029808626657 divide (x1 add x0))) add x1))', np.float64(410397.8949691198))
+
+
+PROBLEM 7
+
+(<__main__.Node object at 0x000002EA88FEB370>, '(((x1 multiply (x1 multiply 1.6272853311901954)) divide (cos 0.9723828327625101)) add (x1 multiply (((x1 add x0) add x0) subtract -1.5039106323170328)))', np.float64(161383057.01298326))
+
+PROBLEM 8
+
+(<__main__.Node object at 0x0000026A6ABD3CA0>, '((x5 multiply x5) multiply (x1 add x5))', np.float64(18812389899481.605))
